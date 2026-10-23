@@ -1,0 +1,13 @@
+*.log
+*.tmp
+tmp/
+.env
+*.pem
+*.key
+id_rsa*
+id_ed25519*
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+Thumbs.db
